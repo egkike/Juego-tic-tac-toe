@@ -1,17 +1,26 @@
-# Curso de React desde cero: Crea un videojuego y una aplicación para aprender useState y useEffect de Midudev.
+## Crea un videojuego y una aplicación para aprender useState y useEffect. By Midudev.
 
-## Repositorio Github:
+### Repositorio Github:
 https://github.com/midudev/aprendiendo-react/tree/master/projects/
 
-## Video Youtube:
+### Video Youtube de Midudev:
 https://www.youtube.com/watch?v=qkzcjwnueLA&t=19s
 
-## Proyecto del juego tic-tac-toe:
+## Proyecto del juego tic-tac-toe hecho en Vite-React:
 1- Crear el proyecto en React Vite:
-$ npm create vite@latest
+```bash
+npm create vite@latest
+```
 
 2- Instalar las librerias dentro de la carpeta tic-tac-toe:
-$ npm install
+```bash
+npm install
+```
 
 3- Instalar dependencia de desarrollo:
-$ npm i canvas-confetti -E // para los confettis del ganador
+```bash
+npm i canvas-confetti -E // para los confettis del ganador
+```
+
+## Puedes ver funcionando esta app en el siguiente link:
+https://kikegarcia-tictactoe.netlify.app/
